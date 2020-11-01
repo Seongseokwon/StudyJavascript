@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 18,
+    "markdown.preview.fontSize": 18,
+    "files.eol": "\n",
+	"editor.detectIndentation": false,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+}
