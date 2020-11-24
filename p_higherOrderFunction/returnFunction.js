@@ -1,8 +1,10 @@
+//'Hello HoF!' 리턴하는 함수를 리턴해야 합니다.
 function returnFunction() {
 	return function(){
-		return 'Hello Javascript';
+		return 'Hello HoF!'
 	}
 }
 
-let output = returnFunction();
-console.log(output());
+let res = returnFunction();
+
+console.log(res())
