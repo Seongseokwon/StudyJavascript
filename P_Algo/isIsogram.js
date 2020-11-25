@@ -11,7 +11,6 @@ function isIsogram(str) {
 		return acc;
 	},{})
 	return result
-	
 }
 
 /*
