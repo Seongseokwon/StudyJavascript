@@ -1,7 +1,7 @@
 function countChar(str){
 	str = str.split('');
 	let lonarr = ['',0];
-	let counts = str.reduce((acc, cur) => {
+	str.reduce((acc, cur) => {
 		if(acc[cur]){
 			acc[cur]++;
 		}else{
